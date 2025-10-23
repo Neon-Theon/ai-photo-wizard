@@ -1,5 +1,4 @@
 ![Status](https://img.shields.io/badge/status-prototype-blue)
-![Feature](https://img.shields.io/badge/feature-Text-to-Image%20Edits-purple)
 ![Tech](https://img.shields.io/badge/tech-Gemini%20Nano%20Banana-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
